@@ -55,4 +55,4 @@ st.pyplot(fig)
 
 # --- Note ---
 st.info("🔬 Ce modèle est une approximation simplifiée. N'utilise pas ce calcul seul pour ajuster une posologie réelle.")
-Initial commit app.py
+
